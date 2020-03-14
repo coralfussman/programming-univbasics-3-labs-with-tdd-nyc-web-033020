@@ -1,5 +1,4 @@
 # Add your variables here
 
 
-first_number = (Integer or Float)
-Integer = 5
+first_number = 5
